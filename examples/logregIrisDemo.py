@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 # 3-class Logistic regression on Iris data
 # Modified from http://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html
@@ -8,6 +7,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import linear_model, datasets
+
+plt.use('TkAgg')
 
 # import the data 
 iris = datasets.load_iris()

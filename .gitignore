@@ -1,1 +1,13 @@
 *~
+.Python
+examples/.Python
+examples/bin/
+examples/include/
+examples/lib/
+examples/man/
+examples/pip-selfcheck.json
+examples/share/
+include/
+lib/
+pip-selfcheck.json
+
